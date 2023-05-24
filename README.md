@@ -1,3 +1,3 @@
 # PerfumeEcommerce
-Fullstack perfume e commerce website build wiht asp.net mvc
+Fullstack perfume e commerce website build with asp.net mvc
 
